@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ziklonb.mipractica.MainActivity"
+    tools:layout_editor_absoluteY="89dp"
+    tools:layout_editor_absoluteX="0dp">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="1685dp"
+        android:layout_height="1311dp"
+        android:adjustViewBounds="false"
+        android:cropToPadding="false"
+        app:srcCompat="@drawable/fondo"
+        tools:layout_editor_absoluteY="-148dp"
+        tools:layout_editor_absoluteX="-442dp" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:textSize="36sp"
+        android:id="@+id/textView"
+        tools:layout_editor_absoluteY="42dp"
+        tools:layout_editor_absoluteX="314dp" />
+
+    <Button
+        android:id="@+id/button"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="115dp"
+        android:layout_height="59dp"
+        android:text="@string/titulo_btn"
+        tools:layout_editor_absoluteX="343dp"
+        tools:layout_editor_absoluteY="998dp" />
+
+
+
+</android.support.constraint.ConstraintLayout>
