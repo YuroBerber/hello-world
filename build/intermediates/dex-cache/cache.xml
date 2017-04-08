@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZiklonB\.android\build-cache\d680d9bea0307988653f36371bb9a4c9af248589\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\ZiklonB\AndroidStudioProjects\MiPractica\app\build\intermediates\pre-dexed\debug\classes_5c9dd1cc8a6cfb347e548c6671595552ae756c28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZiklonB\.android\build-cache\d85e7e9917ae0f483f2d7685d2914d614a537564\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\ZiklonB\AndroidStudioProjects\MiPractica\app\build\intermediates\pre-dexed\debug\classes_de8327d0b3eb9ab08172f9db1c4de3f5accc1ab5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZiklonB\.android\build-cache\4716ebdfab7eb30517cb909599018e44de80387a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\ZiklonB\AndroidStudioProjects\MiPractica\app\build\intermediates\pre-dexed\debug\classes_3d7b9552c44720aff475a81a90a84987b5490a37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZiklonB\.android\build-cache\77608659b937e35326d543c885575dbc131b2275\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\ZiklonB\AndroidStudioProjects\MiPractica\app\build\intermediates\pre-dexed\debug\classes_9bcda2da8824ae181ff20195ce3733ee229417a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZiklonB\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\ZiklonB\AndroidStudioProjects\MiPractica\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_abdaffa36580bb201a57d120859c418ca6400302.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZiklonB\.android\build-cache\5ee11519b8770d2616112ceda6b96af6aaa52a9a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\ZiklonB\AndroidStudioProjects\MiPractica\app\build\intermediates\pre-dexed\debug\classes_41930e351c41d7cf400546eba87b96cdd1c1fff5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZiklonB\.android\build-cache\3d931c992b7564d6e6b42cb2b6ea5e51cf3a6433\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\ZiklonB\AndroidStudioProjects\MiPractica\app\build\intermediates\pre-dexed\debug\classes_a437e1b966186a4ac4b0d398ec8469f6d760acfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZiklonB\.android\build-cache\3fdbf50f31a497fdee65113ec523a78746b8ef4b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ZiklonB\AndroidStudioProjects\MiPractica\app\build\intermediates\pre-dexed\debug\classes_13e236f1e35122bf5f4049f187eb4d7e2cefcbdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZiklonB\.android\build-cache\735e0a25bbcd490400acbdb272a7f9d896824545\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\ZiklonB\AndroidStudioProjects\MiPractica\app\build\intermediates\pre-dexed\debug\classes_3d30d923566477d0217c17e0e00a8dcd5680a6b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZiklonB\.android\build-cache\21d91a56eacd921b667d8c0a27a7080ef25c1953\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\ZiklonB\AndroidStudioProjects\MiPractica\app\build\intermediates\pre-dexed\debug\classes_26e5a3bee107a96106f8260a1bd1201c95499be0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZiklonB\.android\build-cache\7b305385965d3088710cb24ea6fc5716d36631ae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\ZiklonB\AndroidStudioProjects\MiPractica\app\build\intermediates\pre-dexed\debug\classes_fbc4c62e00bdeb17cf1ea4fd35cc0859ca34d7c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZiklonB\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\ZiklonB\AndroidStudioProjects\MiPractica\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_e3cbbfd05b5f4538923b9c6132722949d15bdc5f.jar" />
+    </item>
+
+</items>
